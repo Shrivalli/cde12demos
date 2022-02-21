@@ -1,0 +1,13 @@
+This is the sample file for git.
+
+
+Git stages:
+1. untracked --> tracked --> add it to the local repo --> push it to remote repo
+Git commands:
+1. git init - is to create local repository in that folder
+2. git remote add origin <url> - to connect github to git(remote repo and local repo)
+3. git status - to know if there are any untracked files
+4. git add . --> add all untracked files into a tracked files
+5. git commit -m "commit message" - to commit the files into local repo
+6. git push origin master - to push the files from local repo to remote repo
+
